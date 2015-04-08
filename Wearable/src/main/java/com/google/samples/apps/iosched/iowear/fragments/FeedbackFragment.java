@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.iowear.fragments;
+package com.google.samples.apps.sergio.iowear.fragments;
 
-import com.google.samples.apps.iosched.iowear.OnQuestionAnsweredListener;
+import com.google.samples.apps.sergio.iowear.OnQuestionAnsweredListener;
 
 import android.app.Fragment;
 

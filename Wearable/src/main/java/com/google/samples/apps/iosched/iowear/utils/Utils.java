@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.iowear.utils;
+package com.google.samples.apps.sergio.iowear.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.iowear.fragments;
+package com.google.samples.apps.sergio.iowear.fragments;
 
-import com.google.samples.apps.iosched.R;
-import com.google.samples.apps.iosched.iowear.QuestionModel;
-import com.google.samples.apps.iosched.iowear.WearableApplication;
+import com.google.samples.apps.sergio.R;
+import com.google.samples.apps.sergio.iowear.QuestionModel;
+import com.google.samples.apps.sergio.iowear.WearableApplication;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
